@@ -8,3 +8,6 @@ This project demonstrates how to use Laravel seeders and factories to populate a
 - Projects can have multiple tasks.
 - Customizable data generation with Faker.
 - Scalable seeding for stress-testing environments.
+
+
+See full article on [here](https://medium.com/@whiteboardprogrammer/the-tale-of-rocky-and-the-perfect-seeder-374d0373406b)
